@@ -88,16 +88,6 @@ nav ul li:hover {
   color: grey;
 }
 
-#left-side {
-  grid-area: left-side;
-  display: block;
-}
-
-#right-side {
-  grid-area: right-side;
-  display: block;
-}
-
 main {
   grid-area: main;
 }
@@ -116,10 +106,6 @@ article {
 
 .avatar {
   border-radius: 50%;
-}
-
-aside {
-  grid-area: aside;
 }
 
 h1,
